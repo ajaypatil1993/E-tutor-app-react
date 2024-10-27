@@ -6,14 +6,12 @@
 
 ### Desktop View:
 ![Screenshot of E-tutor Desktop](./src/assets/Screenshots/Screenshot-web-1.png)
-![Screenshot of E-tutor Desktop](./src/assets/Screenshots/Screenshot-web-2.png)
 
 ### Mobile View:
 ![Screenshot of E-tutor Mobile](./src/assets/Screenshots/iPhone-13-PRO-localhost-1.png)
-![Screenshot of E-tutor Mobile](./src/assets/Screenshots/iPhone-13-PRO-localhost-2.png)
 
 ### VS Code Editor View:
-![Screenshot of VS Code Editor](./src/assets/Screenshots/VS_Code_editor_Screenshot.png))
+![Screenshot of VS Code Editor](./src/assets/Screenshots/VS_Code_editor_Screenshot.png)
 
 ## Features ✨
 
