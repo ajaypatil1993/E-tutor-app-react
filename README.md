@@ -114,7 +114,7 @@ E-tutor-App/
 
 ## Live Preview 🌐
 
-You can check out the live version of **E-tutor App** at: [E-tutor App Live](https://your-live-link)
+You can check out the live version of **E-tutor App** at: [E-tutor App Live](https://e-tutor-app.netlify.app)
 
 ## Contact 📬
 
